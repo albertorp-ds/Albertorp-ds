@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alberto Rosario Pimentel 👋</h1>
 
 <p align="center">
-  <em>Data Scientist | Machine Learning Professional | Exploring Deep Learning & AI Learning </em>
+  <em>Data Scientist | Machine Learning Professional | Exploring Deep Learning & AI  </em>
 </p>
 
 ---
