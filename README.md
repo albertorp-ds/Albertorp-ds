@@ -39,23 +39,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertorosario&show_icons=true&theme=default" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertorosario&layout=compact" height="180" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 - 🔗 [Portfolio Website](https://albertorp-datascience.github.io/portfolio/)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/alrp-datascience/)
 - 📬 alrp.datascience@gmail.com
 
----
 
-<p align="center">
-  💡 "Helping businesses go from <strong>data-rich</strong> to <strong>insight-driven</strong>."
-</p>
