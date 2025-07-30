@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alberto Rosario Pimentel 👋</h1>
 
 <p align="center">
-  <em>Data Scientist | Machine Learning Enthusiast | Freelancer Helping SMEs Turn Data into Decisions</em>
+  <em>Data Scientist | Machine Learning Professional | Exploring Deep Learning & AI Learning </em>
 </p>
 
 ---
@@ -13,18 +13,29 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF4785?style=flat&logo=huggingface&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
+## 🎓 Education
+
+- 🎓 **Completed**: Master's in Data Science @ Universidad Complutense de Madrid  
+- 🚀 **Starting**: Master's in Deep Learning @ Universidad Politécnica de Madrid  
+
+---
+
 ## 📈 What I'm Working On
 
-- 🎓 Master’s in Data Science @ Universidad Complutense de Madrid
-- 🧠 Building ML models for fraud detection and behavioral analysis
-- 🤖 Exploring generative AI, NLP, and explainable ML
-- 🛠️ Helping small businesses unlock insights from their data
+- 🔍 Developing real-world machine learning solutions for pattern recognition, classification, and behavioral analysis  
+- 🤖 Exploring generative AI, NLP, and explainable ML  
+- 📊 Creating interactive dashboards with Power BI & Plotly  
+- 🛠️ Helping small businesses unlock insights from their data  
+
 
 ---
 
@@ -39,28 +50,12 @@
 
 ## 🌐 Let's Connect
 
-- 🔗 [Portfolio Website](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📬 alberto@email.com
+- 🔗 [Portfolio Website](https://albertorp-datascience.github.io/portfolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/alrp-datascience/)
+- 📬 alrp.datascience@gmail.com
 
 ---
 
 <p align="center">
-  💡 "Helping businesses go from **data-rich** to **insight-driven**."
+  💡 "Helping businesses go from <strong>data-rich</strong> to <strong>insight-driven</strong>."
 </p>
-
-
-<!--
-**Albertorp-datascience/Albertorp-datascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
