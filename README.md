@@ -67,8 +67,8 @@
 
 ## 🌐 Let's Connect
 
-- 🔗 [Portfolio Website](https://albertorp-datascience.github.io/portfolio/)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [Portfolio Website](https://albertorp-ds.github.io/portfolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/albertorp-ds)
 - 📬 alrp.datascience@gmail.com
 
 
