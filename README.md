@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alberto Rosario Pimentel</h1>
 
 <p align="center">
-  <em>AI Engineer | Data Scientist | Generative AI & Deep Learning</em>
+  <em>AI Engineer | Data Scientist | Deep Learning & Applied AI</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an AI Engineer and Data Scientist with a strong foundation in machine learning, deep learning, and generative AI. I focus on transforming complex, real-world data into intelligent systems that are reliable, practical, and capable of creating meaningful impact.
+I'm an AI Engineer and Data Scientist with a strong foundation in machine learning and deep learning, as well as hands-on experience building generative AI applications. I focus on transforming complex, real-world data into intelligent systems that are reliable, practical, and capable of creating meaningful impact.
 
 My background combines more than three years of experience in data analytics within the banking sector with hands-on work in data engineering and AI applications. That mix has given me a strong appreciation for the full lifecycle of data-driven systems: data quality, infrastructure, experimentation, model development, deployment, and monitoring.
 
@@ -140,8 +140,8 @@ Universidad Iberoamericana (UNIBE), concentration in Business Intelligence
 
 ## Current Focus
 
-- Building production-oriented Generative AI applications with LLMs, RAG, vector databases, and agents.
-- Researching the generalization of multimodal AI systems for clinical depression assessment.
+- Building production-oriented AI applications with LLMs, RAG architectures, vector databases, and intelligent agents.
+- Exploring robust and production-ready AI systems, with interests spanning multimodal learning, generative AI, and machine learning deployment.
 - Improving AI system reliability through reproducible experimentation, evaluation, and MLOps practices.
 - Applying data science and analytics to real-world business and financial-sector problems.
 
