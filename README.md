@@ -20,6 +20,8 @@ My background combines more than three years of experience in data analytics wit
 
 In recent years, I have focused on artificial intelligence, working with LLMs, retrieval-augmented generation (RAG), vector databases, agent-based workflows, and multimodal deep learning. I have contributed to production AI solutions while continuing to deepen my expertise through advanced academic training in Data Science and Deep Learning.
 
+I hold a Master's degree in Data Science, Big Data & Business Analytics and have completed the coursework requirements for a Master's in Deep Learning at the Polytechnic University of Madrid (UPM), with the thesis defense currently pending. My master's thesis explores the generalization limits of multimodal GNN-GRU architectures for clinical depression assessment using the DAIC-WOZ dataset.
+
 ---
 
 ## Core Capabilities
@@ -94,10 +96,10 @@ Combining analytical thinking, statistical reasoning, and domain expertise to ex
 ## Featured Work
 
 **Generalization Analysis of Multimodal Models for Depression Severity Estimation**  
-Master's thesis at the Polytechnic University of Madrid (UPM), focused on multimodal AI for clinical depression assessment using the DAIC-WOZ dataset.
+Master's thesis at the Polytechnic University of Madrid (UPM), focused on the generalization limits of multimodal deep learning models for PHQ-8 depression severity estimation using the DAIC-WOZ dataset.
 
-- Investigating the generalization limits of multimodal models using facial and acoustic information.
-- Implementing architectures based on Graph Neural Networks, GRUs, and deep acoustic representations.
+- Evaluating GNN- and GRU-based architectures combining facial landmarks and acoustic representations.
+- Analyzing dataset limitations, participant-level generalization, and challenges affecting real-world deployment.
 - Developing reproducible training and evaluation workflows with PyTorch Geometric and PyTorch Lightning.
 - Studying the gap between controlled research performance and real-world AI deployment.
 
@@ -126,6 +128,7 @@ Master's thesis at the Polytechnic University of Madrid (UPM), focused on multim
 
 **Master's Degree in Deep Learning / Artificial Intelligence**  
 Polytechnic University of Madrid (UPM)
+Completed coursework - Thesis defense pending
 
 **Master's Degree in Data Science, Big Data & Business Analytics**  
 Complutense University of Madrid (UCM)
@@ -138,13 +141,15 @@ Universidad Iberoamericana (UNIBE), concentration in Business Intelligence
 ## Current Focus
 
 - Building production-oriented Generative AI applications with LLMs, RAG, vector databases, and agents.
-- Researching multimodal deep learning models for clinical depression assessment.
+- Researching the generalization of multimodal AI systems for clinical depression assessment.
 - Improving AI system reliability through reproducible experimentation, evaluation, and MLOps practices.
 - Applying data science and analytics to real-world business and financial-sector problems.
 
 ---
 
 ## Let's Connect
+
+Open to AI Engineering, Applied AI, Data Science, Generative AI, and Machine Learning opportunities.
 
 - Portfolio: [albertorp-ds.github.io/portfolio](https://albertorp-ds.github.io/portfolio/)
 - GitHub: [github.com/albertorp-ds](https://github.com/albertorp-ds)
